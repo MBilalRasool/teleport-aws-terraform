@@ -1,0 +1,6 @@
+dev.tfvars
+to-del.sh
+terraform.tfstate*
+.terraform*
+
+
